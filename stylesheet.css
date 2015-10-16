@@ -1,0 +1,112 @@
+
+body {
+	background-color: #FFFFFF
+}
+
+#bgimg {
+	background-image: url("oldMainSunsetBlur.jpg");
+	background-repeat: no-repeat;
+	width: 100%; 
+	height: 750px;
+	/*opacity: 0.8;*/
+	/*-webkit-filter: blur(2px) brightness(1);*/
+}
+
+/*.placeHolderSquare{
+	margin-left: 110px;
+	
+}*/
+
+.Housing, .RAonDuty, .ResidenceLife, .UniversityPolice, .StudentResources  {
+	display: block;
+	border: 50px;
+	border-radius: 13px;
+	height: 175px;
+	width: 310px; /*widith to 70% give cool design single bars*/
+	margin-top: 30px;
+	text-align: center;	
+	float: left;
+	margin-right: 5%;
+	margin-left: 10%;
+
+}
+
+/*.Housing, .ResidenceLife,  {
+	float: right;
+	right: 366px; /*Problem with moving text horizontally
+}
+
+.RAonDuty, .UniversityPolice {
+	position: absolute;
+	left:366px;
+}
+
+.StudentResources {
+	position: absolute;
+	left: 183px;
+}*/
+
+
+.blue-background {background-color: #3997D6;} 
+.yellow-background {background-color: #F1C40F;}
+.orange-background {background-color: #F19B2B;}
+.red-background{background-color: #E34C41;}
+.green-background {background-color: #39CB74;}
+
+div  {
+}
+
+p {
+	font-family: Helvetica;
+	font-weight: bold;
+	font-size: 30px;
+	color: #EBEFF0;
+	margin-top: 12px;
+}
+
+#textAdjust {
+	font-family: Helvetica;
+	font-weight: bold;
+	font-size: 27px;
+	color: #EBEFF0;
+	margin-top: 12px;
+}
+
+#textAdjustSm {
+	font-family: Helvetica;
+	font-weight: bold;
+	font-size: 24px;
+	color: #EBEFF0;
+	margin-top: 12px;
+}
+
+.hours{
+	margin-top: 20px;
+	font-size: 18px;
+	width: 75%;
+	
+}
+
+.subtext {
+	clear: both;
+	font-size: 18px;
+
+}
+
+.phoneIcon {
+	color:#EAEEEF; 
+	float: left;
+	width: 50%;	
+}
+
+.iconCenter{
+	color:#EAEEEF; 
+}
+
+.iconTwo{
+	color:#EAEEEF; 
+	float: left;
+	width: 50%;
+}
+
+
